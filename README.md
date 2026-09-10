@@ -4,7 +4,7 @@ A modern, dark-themed DevOps engineer portfolio website showcasing skills, proje
 
 ## Live Demo
 
-🌐 **[devflux-portfolio](https://abhiabhi1019.github.io/devflux-portfolio)**
+🌐 **[DevFlux Portfolio](https://abhiabhi1019.github.io)**
 
 ## Features
 
@@ -62,8 +62,8 @@ A modern, dark-themed DevOps engineer portfolio website showcasing skills, proje
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Abhiabhi1019/devflux-portfolio.git
-   cd devflux-portfolio
+   git clone https://github.com/Abhiabhi1019/Abhiabhi1019.github.io.git
+   cd Abhiabhi1019.github.io
    ```
 
 2. Start a local server:
@@ -78,19 +78,21 @@ A modern, dark-themed DevOps engineer portfolio website showcasing skills, proje
 
 ## Deployment
 
-This portfolio is automatically deployed to GitHub Pages using GitHub Actions.
+This portfolio is deployed to GitHub Pages using GitHub Actions.
+
+### Setup
+
+1. Create a repository named `YOUR_USERNAME.github.io`
+2. Push the code to the repository
+3. Go to **Settings → Pages**
+4. Under **Build and deployment**, select **Source → GitHub Actions**
+5. The workflow will automatically deploy your site
 
 ### CI/CD Pipeline
 
 ```
 git push → GitHub Actions → GitHub Pages → Live Website
 ```
-
-The deployment workflow:
-1. Code is pushed to `main` branch
-2. GitHub Actions triggers the build
-3. Static files are uploaded as artifacts
-4. Deployed to GitHub Pages
 
 ## Project Structure
 
@@ -155,7 +157,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source. Feel free to use it as a template for your own portfolio.
 
 ---
 
