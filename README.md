@@ -153,7 +153,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 **Abhijith CM**
 - GitHub: [@Abhiabhi1019](https://github.com/Abhiabhi1019)
-- LinkedIn: [Abhijith CM](https://linkedin.com/in/abhijith-cm)
+- LinkedIn: [Abhijith CM](https://www.linkedin.com/in/abhijith-cm-1828262b7)
 
 ## License
 
